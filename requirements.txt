@@ -1,0 +1,8 @@
+numpy
+opencv_contrib_python
+opencv_python
+tensorflo
+matplotlib
+kaggle
+seaborn
+dlib
